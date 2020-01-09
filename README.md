@@ -1,5 +1,5 @@
 # PP-Final-Project
-<h2>Group 24: Parallel External Merge Sort</h2></br>
+<h3>Group 24: Parallel External Merge Sort</h3></br>
 Using Pthread to do parallel external merge sort</br>
 </br>
 Input file size: 1GB</br>
